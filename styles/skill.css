@@ -141,3 +141,27 @@ nav li a {
   border-radius: 10px;
 
 }
+
+.div-submit {
+  display: flex;
+  justify-content: center;
+}
+
+.submit-field button {
+  height: 42px;
+  width: 80px;
+  border-radius: 10px;
+}
+
+.submit-support h2,
+.submit-support p {
+  color: white;
+
+}
+
+.submit-field input {
+  width: 300px;
+  height: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
