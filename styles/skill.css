@@ -159,6 +159,16 @@ nav li a {
 
 }
 
+.main_footer {
+  background-color: rgb(217, 232, 232);
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-icons {
+  padding-top: 10px;
+}
+
 .submit-field input {
   width: 300px;
   height: 20px;
