@@ -160,7 +160,7 @@ nav li a {
 }
 
 .main_footer {
-  background-color: rgb(217, 232, 232);
+  background-color: #F6FDFF;
   display: flex;
   justify-content: space-between;
 }
